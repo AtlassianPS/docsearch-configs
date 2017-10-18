@@ -107,7 +107,7 @@ Specifies if matched URL should not respect the same rules as the hyperlink craw
 "sitemap_urls": [
     "https://www.mySite.com/sitemap.xml"
   ],
-"": [
+"sitemap_urls_regexs": [
     "/doc/"
   ],
 "force_sitemap_urls_crawling": true,
